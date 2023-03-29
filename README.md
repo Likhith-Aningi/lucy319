@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucy319
+- 👋 Hi, I’m @Likhith
 - 👀 I’m interested in Cyber sec and dbms
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on app design
